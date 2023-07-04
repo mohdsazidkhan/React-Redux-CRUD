@@ -1,8 +1,7 @@
-# React Hooks + Redux CRUD example with Axios & Web API
-Build React Redux Tutorial Application with Rest API calls in that:
-- Each Tutorial has id, title, description, published status.
-- We can create, retrieve, update, delete Tutorials.
-- There is a Search bar for finding Tutorials by title.
+# React Hooks + Redux CRUD example with Axios & REST API
+Build React Redux Post Application with Rest API calls in that:
+- Each Post has id, title, body.
+- We can create, retrieve, update, delete Posts.
 
 ## Project setup
 
