@@ -14,7 +14,7 @@ yarn install
 ```
 
 or
-# Add API Base URL
+## Add API Base URL
 
 Inside .env add base URL like that "REACT_APP_API_BASE_URL='http://baseurl'"
 
